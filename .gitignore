@@ -117,3 +117,5 @@ build
 # Deploy on Heroku
 ############################
 package-lock.json
+database.env
+docker-compose.yml
