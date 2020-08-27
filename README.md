@@ -1,6 +1,6 @@
 # H-Shop-Strapi-API
 
-**H-Shop-Strapi-API** is an prototype CMS to create e-commerce API
+**H-Shop-Strapi-API** is an prototype API made by CMS to create e-commerce API
 
 This project is used to my frontend prototype [H-Shop](https://github.com/Hakamate/H-Shop-StrapiNuxt).
 
