@@ -36,7 +36,7 @@ This project is used to my frontend prototype [H-Shop](https://github.com/Hakama
 | Login | &#10004; | Allow User to be connected |
 | LogOut | &#10004; | Allow User to be disconnected |
 | Register | &#10004; | Allow Guest to create an Account |
-| Rules | &#10060; | Allow specific actions for specific Users |
+| Rules | &#10004; | Allow specific actions for specific Users |
 
 ## Technologies
 
