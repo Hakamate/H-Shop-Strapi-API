@@ -2,35 +2,35 @@
   "kind": "collectionType",
   "collectionName": "products",
   "info": {
-    "name": "Products"
+    "name": "GroupProducts"
   },
   "options": {
     "increments": true,
     "timestamps": true
   },
   "attributes": {
+    "price": {
+      "type": "decimal"
+    },
+    "product_images": {
+      "collection": "images"
+    },
     "title": {
       "type": "string"
     },
     "description": {
       "type": "richtext"
     },
-    "price": {
-      "type": "decimal"
+    "gender": {
+      "type": "enumeration",
+      "enum": [
+        "Man",
+        "Woman",
+        "Mixt"
+      ]
     },
-    "image": {
-      "collection": "file",
-      "via": "related",
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos"
-      ],
-      "plugin": "upload",
-      "required": false
-    },
-    "colors": {
-      "collection": "colors"
+    "category": {
+      "model": "categories"
     }
   }
 }

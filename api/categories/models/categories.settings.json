@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "colors",
+  "collectionName": "categories",
   "info": {
-    "name": "colors"
+    "name": "Categories"
   },
   "options": {
     "increments": true,
@@ -10,9 +10,6 @@
   },
   "attributes": {
     "name": {
-      "type": "string"
-    },
-    "value": {
       "type": "string"
     }
   }
