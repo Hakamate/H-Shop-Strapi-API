@@ -18,9 +18,9 @@ This project is used to my frontend prototype [eCommerce-Strapi-API-Consumer](ht
 
 | Feature  |  Coded?       | Description  |
 |----------|:-------------:|:-------------|
-| Login | &#10004; | Allow User to be connected |
-| LogOut | &#10004; | Allow User to be disconnected |
-| Register | &#10004; | Allow Guest to create an Account |
+| Login | &#10060; | Allow User to be connected |
+| LogOut | &#10060; | Allow User to be disconnected |
+| Register | &#10060; | Allow Guest to create an Account |
 | Rules | &#10004; | Allow specific actions for specific Users |
 
 ## Technologies
