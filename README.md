@@ -2,7 +2,7 @@
 
 **eCommerce-Strapi-API** is an prototype API made by CMS to create e-commerce API
 
-This project is used to my frontend prototype [eCommerce-Strapi-API-Consumer](https://github.com/Hakamate/eCommerce-Strapi-API-Consuler).
+This project is used to my frontend prototype [eCommerce-Strapi-API-NuxtConsumer](https://github.com/Hakamate/eCommerce-Strapi-API-NuxtConsumer).
 
 ## Features
 <b>Products Features</b>
